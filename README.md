@@ -12,8 +12,8 @@ Also we got help from other developers.
 # How does it work
 ![image](https://user-images.githubusercontent.com/126695865/227996879-cd3c7dcf-b18a-4e83-b70c-8c78c2973acb.png)
 
-When poeople are going to their home , counter increase by 1 \
-When poeople are leaving their home , counter deacrease by 1 \
+When poeople are going to their home , counter increases by 1 \
+When poeople are leaving their home , counter deacreases by 1 \
 Actually app is working as a counter.
 
 Finally, the app sends last data to database before earthquake becase we already send data every second. \
