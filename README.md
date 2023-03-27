@@ -7,7 +7,7 @@ This project helps to count people inside of apartment
 
 # Which we use software language
 The project developed by Python and Java. \
-Also we got help from other developers. \
+Also we got help from other developers. 
 
 # How does it work
 ![image](https://user-images.githubusercontent.com/126695865/227996879-cd3c7dcf-b18a-4e83-b70c-8c78c2973acb.png)
