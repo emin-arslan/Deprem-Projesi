@@ -6,11 +6,16 @@
 This project helps to count people inside of apartment
 
 # Which we use software language
-The project developed by Python and Java
+The project developed by Python and Java. \
+Also we got help from other developers. \
 
-# What does it do
-
+# How does it work
 ![image](https://user-images.githubusercontent.com/126695865/227996879-cd3c7dcf-b18a-4e83-b70c-8c78c2973acb.png)
 
+When poeople are going to their home , counter increase by 1 \
+When poeople are leaving their home , counter deacrease by 1 \
+Actually app is working as a counter.
 
-![image](https://user-images.githubusercontent.com/126695865/227997192-3ec01d99-9013-43df-93e4-3c98cd8812ae.png)
+Finally, the app sends last data to database before earthquake becase we already send data every second. \
+So , we will know how many people are there.
+
