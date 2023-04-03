@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/126695865/227997136-08b94460-3ea7-4d57-85a6-c3d5782d0501.png)
 
 # What does it do
-This project helps to count people inside of apartment
+This project helps to count people inside of the apartment
 
 # Which we use software language
 The project developed by Python and Java. \
